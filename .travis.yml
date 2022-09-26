@@ -20,8 +20,7 @@ python:
 # CHECK If you're going to change the list of supported Python versions
 # update tox.ini and setup.py's classifiers as well.
 - pypy3.5
-- 3.4
-- 3.5
-- 3.6
 - 3.7
 - 3.8
+- 3.9
+- 3.10
